@@ -61,11 +61,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+(![WhatsApp Image 2025-09-14 at 17 52 03_8b01bf20](https://github.com/user-attachments/assets/fa875c99-8bf0-46c1-806c-577c84250825)
+<img width="805" height="505" alt="image" src="https://github.com/user-attachments/assets/25432440-ac72-46a8-8d5b-d9f3d910c56e" />
 
----
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
+<img width="777" height="481" alt="image" src="https://github.com/user-attachments/assets/e45960fc-4293-4650-a573-571ab1ce4b5e" />
 
 ## 2. SUBTRACTION
 
@@ -112,12 +113,12 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
-
----
+![WhatsApp Image 2025-09-14 at 17 52 07_737c3df5](https://github.com/user-attachments/assets/8731b360-3191-4cde-83d6-8c71ab23a93e)
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+<img width="782" height="481" alt="image" src="https://github.com/user-attachments/assets/947387b2-5ebb-4755-bcff-871a294e4cf5" />
+<img width="798" height="505" alt="image" src="https://github.com/user-attachments/assets/2b43019a-836a-4c90-b0a1-995068a25563" />
 
 ## 3. MULTIPLICATION
 
@@ -161,11 +162,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-14 at 17 55 40_1fe9604c](https://github.com/user-attachments/assets/0aafc31b-ae32-41e4-8450-893c86740312)
 
----
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-14 at 18 25 14_84c21285](https://github.com/user-attachments/assets/4aa38acd-4b13-47e9-9ad7-59d2c984ac4c)
+
+<img width="792" height="431" alt="image" src="https://github.com/user-attachments/assets/9a707420-318b-49ed-b283-3cc2acae3630" />
 
 ## 4. DIVISION
 
@@ -206,11 +209,13 @@ END
 
 #### Manual Calculations
 
-(Add your calculation here)
+![WhatsApp Image 2025-09-14 at 17 52 09_bda9421c](https://github.com/user-attachments/assets/916c5cc6-787d-4c6d-a55e-421075b69888)
 
----
 ## OUTPUT FROM MASM SOFTWARE
+![WhatsApp Image 2025-09-14 at 18 25 15_3386397f](https://github.com/user-attachments/assets/1efece6b-d3e3-42ae-9f54-5f95e2ce4818)
 
+
+<img width="792" height="427" alt="image" src="https://github.com/user-attachments/assets/a57be435-c99e-4c1c-bbca-704a63d49871" />
 
 
 ## RESULT
