@@ -55,18 +55,27 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   12                     | 
+|  2001                   |   34                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
+
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   68                     | 
+|  2005                   |   24                     |
+|  2006                   |   00                     |
 
 #### Manual Calculations
+<img width="1489" height="1080" alt="image" src="https://github.com/user-attachments/assets/a031cea6-32ef-4353-ad90-43eaef82c316" />
 
-(![WhatsApp Image 2025-09-14 at 17 52 03_8b01bf20](https://github.com/user-attachments/assets/fa875c99-8bf0-46c1-806c-577c84250825)
-<img width="805" height="505" alt="image" src="https://github.com/user-attachments/assets/25432440-ac72-46a8-8d5b-d9f3d910c56e" />
 
 
 ## OUTPUT IMAGE FROM MASM SOFTWARE
-<img width="777" height="481" alt="image" src="https://github.com/user-attachments/assets/e45960fc-4293-4650-a573-571ab1ce4b5e" />
+<img width="639" height="422" alt="Screenshot 2025-09-12 085412" src="https://github.com/user-attachments/assets/2f69010e-4486-49f0-bdfd-8f4a97d7583d" />
 
 ## 2. SUBTRACTION
 
@@ -107,18 +116,26 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   56                     | 
+|  2001                   |   78                     |
+|  2002                   |   25                     |
+|  2003                   |   34                     |
+
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   31                     | 
+|  2005                   |   44                     |
+|  2006                   |   34                     |
 
 #### Manual Calculations
-
-![WhatsApp Image 2025-09-14 at 17 52 07_737c3df5](https://github.com/user-attachments/assets/8731b360-3191-4cde-83d6-8c71ab23a93e)
+<img width="1573" height="1079" alt="image" src="https://github.com/user-attachments/assets/a8ea44f2-7ae5-4e4a-877c-18b70d75d299" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-<img width="782" height="481" alt="image" src="https://github.com/user-attachments/assets/947387b2-5ebb-4755-bcff-871a294e4cf5" />
-<img width="798" height="505" alt="image" src="https://github.com/user-attachments/assets/2b43019a-836a-4c90-b0a1-995068a25563" />
+<img width="660" height="441" alt="Screenshot 2025-09-20 085310" src="https://github.com/user-attachments/assets/d6e43fe8-80b2-40e8-9a80-f5985b715bea" />
 
 ## 3. MULTIPLICATION
 
@@ -156,19 +173,27 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   12                     | 
+|  2001                   |   34                     |
+|  2002                   |   12                     |
+|  2003                   |   34                     |
+
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   90                     | 
+|  2005                   |   5A                     |
+|  2006                   |   4B                     |
 
 #### Manual Calculations
 
-![WhatsApp Image 2025-10-27 at 22 42 19_01cdea88](https://github.com/user-attachments/assets/a302b7af-bb41-4b37-b442-ddb9cbd4db8b)
+<img width="1600" height="1318" alt="image" src="https://github.com/user-attachments/assets/1bfa5bff-ac6b-4b6d-ba20-8612df301283" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-![WhatsApp Image 2025-09-14 at 18 25 14_84c21285](https://github.com/user-attachments/assets/4aa38acd-4b13-47e9-9ad7-59d2c984ac4c)
-
-<img width="792" height="431" alt="image" src="https://github.com/user-attachments/assets/9a707420-318b-49ed-b283-3cc2acae3630" />
+<img width="641" height="420" alt="Screenshot 2025-09-19 140347" src="https://github.com/user-attachments/assets/4eca69da-9b9c-4aca-9201-2e87602133d6" />
 
 ## 4. DIVISION
 
@@ -203,23 +228,27 @@ END
 
 #### Output Table
 
-| MEMORY LOCATION (INPUT) | MEMORY LOCATION (OUTPUT) |
+| MEMORY LOCATION (INPUT) | DATA (INPUT)             |
 | ----------------------- | ------------------------ |
-|                         |                          |
+|  2000                   |   68                     | 
+|  2001                   |   24                     |
+|  2002                   |   34                     |
+|  2003                   |   11                     |
+
+
+| MEMORY LOCATION (INPUT) | DATA (OUTPUT)            |
+| ----------------------- | ------------------------ |
+|  2004                   |   00                     | 
+|  2005                   |   02                     |
+|  2006                   |   02                     |
+
 
 #### Manual Calculations
-
-![WhatsApp Image 2025-10-27 at 22 42 21_d4cbde2b](https://github.com/user-attachments/assets/b426475c-fc57-4fe7-8f2c-95604260ec34)
+<img width="1439" height="1080" alt="image" src="https://github.com/user-attachments/assets/0387231b-b8c1-4f81-b43b-a59f0bdd38bd" />
 
 
 ## OUTPUT SCREEN FROM MASM SOFTWARE
-
-<img width="783" height="449" alt="Screenshot 2025-09-14 181103" src="https://github.com/user-attachments/assets/171dca18-92fb-46e9-a10c-33f7d90e52a1" />
-
-<img width="966" height="614" alt="Screenshot 2025-10-27 225650" src="https://github.com/user-attachments/assets/d9cfd7d7-7afd-4685-b70c-3c50c54098a2" />
-
-
-
+<img width="640" height="438" alt="Screenshot 2025-09-20 090533" src="https://github.com/user-attachments/assets/63b8a557-cd78-46c3-b992-2b72cdbb4e93" />
 
 ## RESULT
 
